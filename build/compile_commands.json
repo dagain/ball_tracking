@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/UTEC/9no/DSM/Open CV/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/opencv/build/include -g -o CMakeFiles\\ball_tracking.dir\\main.cpp.obj -c \"D:\\UTEC\\9no\\DSM\\Open CV\\main.cpp\"",
+  "file": "D:\\UTEC\\9no\\DSM\\Open CV\\main.cpp",
+  "output": "CMakeFiles\\ball_tracking.dir\\main.cpp.obj"
+}
+]

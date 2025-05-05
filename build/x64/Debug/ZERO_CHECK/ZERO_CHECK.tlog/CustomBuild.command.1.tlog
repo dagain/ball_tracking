@@ -1,0 +1,10 @@
+^D:\UTEC\9NO\DSM\OPEN CV\BUILD\CMAKEFILES\1C1412593EAAA44132BADE051AC8ADCC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/UTEC/9no/DSM/Open CV" "-BD:/UTEC/9no/DSM/Open CV/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/UTEC/9no/DSM/Open CV/build/ball_tracking.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

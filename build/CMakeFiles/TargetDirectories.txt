@@ -1,0 +1,9 @@
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/ball_tracking.dir
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/Experimental.dir
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/Nightly.dir
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/Continuous.dir
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/PACKAGE.dir
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/RUN_TESTS.dir
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/ALL_BUILD.dir
+D:/UTEC/9no/DSM/Open CV/build/CMakeFiles/ZERO_CHECK.dir
